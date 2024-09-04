@@ -1,0 +1,7 @@
+.DS_Store
+.env
+*.log*
+*.pyc
+debug.ipynb
+debug.sql
+build_ML_pipeline.ipynb

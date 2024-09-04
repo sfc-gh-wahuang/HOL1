@@ -1,0 +1,501 @@
+ID,CODE_GENDER,FLAG_OWN_CAR,FLAG_OWN_REALTY,CNT_CHILDREN,AMT_INCOME_TOTAL,NAME_INCOME_TYPE,NAME_EDUCATION_TYPE,NAME_FAMILY_STATUS,NAME_HOUSING_TYPE,DAYS_BIRTH,DAYS_EMPLOYED,FLAG_MOBIL,FLAG_WORK_PHONE,FLAG_PHONE,FLAG_EMAIL,OCCUPATION_TYPE,CNT_FAM_MEMBERS
+7999953,M,N,Y,5,4352881.1320955735,Commercial associate,Incomplete higher,Widow,Office apartment,-16637,302230,1,1,1,0,Security staff,8
+7999954,F,Y,N,5,1861118.319190011,Working,Academic degree,Civil marriage,Municipal apartment,-13557,260662,1,1,0,0,IT staff,12
+7999955,F,N,N,3,1770965.1766004276,Pensioner,Higher education,Married,Rented apartment,-20537,58451,1,0,1,1,Secretaries,15
+7999956,F,N,N,8,3855768.3661904014,Student,Secondary / secondary special,Single / not married,Co-op apartment,-21776,73854,1,0,1,0,Low-skill Laborers,19
+7999957,M,Y,Y,6,5981011.189471135,State servant,Lower secondary,Separated,House / apartment,-18382,203695,1,0,1,0,Waiters/barmen staff,3
+7999958,M,N,N,19,2399902.617986249,Working,Lower secondary,Married,With parents,-18661,32550,1,1,0,0,Cooking staff,15
+7999959,M,N,Y,16,976958.1586831044,State servant,Lower secondary,Separated,With parents,-20342,16667,1,1,1,0,Accountants,2
+7999960,F,Y,Y,10,3802859.922952686,Pensioner,Secondary / secondary special,Single / not married,With parents,-22467,237347,1,0,1,0,Drivers,10
+7999961,F,Y,Y,2,3228938.851853079,Commercial associate,Lower secondary,Civil marriage,Office apartment,-11908,247998,1,0,0,0,Laborers,13
+7999962,M,Y,N,0,4295239.052713264,Commercial associate,Secondary / secondary special,Separated,Co-op apartment,-8937,210523,1,0,1,0,None,16
+7999963,F,N,N,19,3954053.1545031057,Commercial associate,Incomplete higher,Civil marriage,Office apartment,-9246,361174,1,0,0,0,Realty agents,11
+7999964,M,N,N,15,2652073.215538819,State servant,Incomplete higher,Civil marriage,Co-op apartment,-17593,295411,1,1,1,0,Sales staff,1
+7999965,M,Y,N,3,3613197.549197977,Working,Incomplete higher,Single / not married,House / apartment,-12672,17168,1,0,0,1,Medicine staff,3
+7999966,F,Y,Y,12,3149144.197693864,State servant,Academic degree,Separated,With parents,-13858,163864,1,1,0,1,High skill tech staff,3
+7999967,M,N,N,16,2366863.9229004867,Commercial associate,Academic degree,Married,House / apartment,-14606,49424,1,0,0,1,Cleaning staff,15
+7999968,F,N,Y,5,6657439.29902755,Student,Academic degree,Separated,With parents,-18275,314070,1,0,1,0,Managers,8
+7999969,M,Y,N,19,942765.9586494868,Pensioner,Academic degree,Separated,Co-op apartment,-9089,-14212,1,0,0,0,Private service staff,10
+7999970,F,Y,N,18,3250485.633317707,Commercial associate,Incomplete higher,Widow,House / apartment,-8795,1935,1,1,0,0,HR staff,15
+7999971,F,Y,Y,6,3586998.347591584,Commercial associate,Higher education,Married,House / apartment,-13381,163535,1,1,1,0,Core staff,5
+7999972,F,N,Y,4,6199996.722158455,Commercial associate,Incomplete higher,Civil marriage,With parents,-19280,336855,1,0,1,1,Drivers,19
+7999973,M,N,Y,16,123052.60429413588,Student,Lower secondary,Separated,House / apartment,-14150,-8473,1,0,0,0,None,8
+7999974,F,Y,N,9,1487497.9594007349,Student,Incomplete higher,Widow,With parents,-13310,10895,1,0,0,1,Security staff,12
+7999975,F,Y,Y,2,4394424.481916854,Student,Academic degree,Single / not married,With parents,-13430,109889,1,1,1,1,IT staff,6
+7999976,F,Y,Y,5,1100046.7182232453,State servant,Lower secondary,Married,Office apartment,-23362,331544,1,1,0,1,Security staff,4
+7999977,M,N,Y,6,1522458.2631554832,Pensioner,Secondary / secondary special,Single / not married,Municipal apartment,-7532,169511,1,0,1,0,Cooking staff,7
+7999978,F,Y,N,7,5994038.480420581,Working,Lower secondary,Separated,House / apartment,-22595,7531,1,1,0,1,Accountants,10
+7999979,M,N,Y,16,2067749.552089457,Commercial associate,Lower secondary,Civil marriage,Office apartment,-10000,353428,1,0,0,1,High skill tech staff,20
+7999980,F,N,Y,14,4856583.416938015,Student,Lower secondary,Civil marriage,Co-op apartment,-15113,77029,1,1,1,1,Private service staff,19
+7999981,M,Y,N,10,3316993.032854062,Pensioner,Secondary / secondary special,Civil marriage,Co-op apartment,-16998,91634,1,1,0,1,Low-skill Laborers,13
+7999982,F,Y,Y,11,5717694.804962043,Pensioner,Academic degree,Civil marriage,House / apartment,-25078,362154,1,0,1,1,Cooking staff,12
+7999983,F,Y,N,13,3947935.6225495692,Working,Secondary / secondary special,Single / not married,Co-op apartment,-17579,128825,1,1,1,1,Accountants,14
+7999984,M,Y,N,5,446327.10205663415,Student,Incomplete higher,Civil marriage,With parents,-11547,7760,1,1,1,0,Accountants,5
+7999985,M,N,Y,19,6553147.952848769,Student,Lower secondary,Single / not married,With parents,-16463,267239,1,1,0,1,Security staff,11
+7999986,M,N,Y,8,4717875.379209537,Student,Academic degree,Widow,With parents,-12491,58240,1,1,1,0,Core staff,20
+7999987,F,N,Y,14,3910919.4757302557,Working,Higher education,Widow,Municipal apartment,-20568,254029,1,1,1,1,HR staff,16
+7999988,M,N,Y,4,131266.01580122943,Student,Secondary / secondary special,Civil marriage,Office apartment,-13100,217170,1,0,0,1,Medicine staff,14
+7999989,M,Y,Y,15,6130384.242577096,Student,Incomplete higher,Widow,Co-op apartment,-8692,4460,1,1,0,1,IT staff,19
+7999990,M,N,N,3,5491235.567710258,Pensioner,Lower secondary,Married,House / apartment,-8951,48728,1,1,1,0,Core staff,6
+7999991,F,N,N,5,492714.6739046556,Student,Incomplete higher,Widow,With parents,-21516,333733,1,1,1,1,Accountants,16
+7999992,M,Y,Y,12,6664765.046388011,Student,Higher education,Civil marriage,Co-op apartment,-20331,302968,1,0,1,0,None,7
+7999993,M,N,Y,17,5390100.65755484,Student,Incomplete higher,Single / not married,With parents,-21985,31623,1,0,0,0,HR staff,20
+7999994,F,N,N,0,1125784.702449628,Pensioner,Incomplete higher,Single / not married,Office apartment,-15058,318424,1,0,1,1,Secretaries,8
+7999995,F,N,Y,2,4893319.604407878,Student,Incomplete higher,Separated,Co-op apartment,-17631,72998,1,1,0,1,Waiters/barmen staff,12
+7999996,M,Y,Y,5,4187821.501608425,Working,Higher education,Single / not married,Rented apartment,-14266,90983,1,1,1,0,Sales staff,16
+7999997,F,N,N,19,2730319.5045879353,Pensioner,Incomplete higher,Civil marriage,House / apartment,-9697,-5891,1,0,0,1,High skill tech staff,10
+7999998,F,N,Y,9,5821661.21230152,Commercial associate,Higher education,Widow,Office apartment,-18487,217828,1,1,1,0,Secretaries,1
+7999999,M,Y,Y,1,885974.7704235226,State servant,Secondary / secondary special,Civil marriage,Co-op apartment,-11765,171813,1,0,1,1,Managers,8
+8000000,F,Y,Y,6,4597256.1734884875,Commercial associate,Lower secondary,Civil marriage,House / apartment,-22108,249024,1,1,0,0,Low-skill Laborers,20
+8000001,F,N,Y,7,5805806.820526361,Student,Academic degree,Civil marriage,Office apartment,-12469,16721,1,0,0,0,High skill tech staff,5
+8000002,M,N,Y,7,2205248.576819916,Commercial associate,Secondary / secondary special,Civil marriage,With parents,-15291,307780,1,0,1,1,Cleaning staff,17
+8000003,M,Y,N,5,3723639.693917662,State servant,Incomplete higher,Married,Co-op apartment,-18835,15521,1,0,0,0,Waiters/barmen staff,3
+8000004,F,N,N,18,170977.24062067876,Student,Lower secondary,Single / not married,Rented apartment,-9135,295406,1,1,0,0,Drivers,7
+8000005,M,N,Y,12,3857949.822397006,Student,Incomplete higher,Married,House / apartment,-14277,8986,1,0,0,1,IT staff,18
+8000006,M,Y,Y,10,5959060.861718069,State servant,Higher education,Married,Municipal apartment,-10112,70675,1,0,1,1,Low-skill Laborers,3
+8000007,M,Y,N,3,2322120.542175742,Commercial associate,Higher education,Civil marriage,Municipal apartment,-25031,305819,1,0,1,1,Realty agents,2
+8000008,F,Y,N,9,2141728.6649746527,Working,Higher education,Civil marriage,Municipal apartment,-13995,180606,1,0,1,1,None,12
+8000009,F,Y,Y,19,1417842.6646278962,Working,Incomplete higher,Single / not married,Co-op apartment,-18132,-5007,1,0,1,0,Laborers,19
+8000010,M,Y,N,16,70920.09546476361,Student,Incomplete higher,Separated,House / apartment,-10153,322002,1,0,0,1,Waiters/barmen staff,2
+8000011,F,Y,N,14,4626664.106754269,State servant,Higher education,Married,Office apartment,-10781,79963,1,0,0,1,Secretaries,2
+8000012,M,Y,N,2,1124138.0406938642,Student,Incomplete higher,Widow,Municipal apartment,-14299,-5031,1,1,0,1,Cooking staff,18
+8000013,M,Y,Y,9,2092169.1733392023,State servant,Academic degree,Married,Office apartment,-11256,-7328,1,1,0,0,Private service staff,11
+8000014,M,Y,N,17,6247620.124378578,Student,Secondary / secondary special,Civil marriage,Municipal apartment,-17586,277384,1,1,1,0,Low-skill Laborers,15
+8000015,M,Y,Y,16,4314312.538823388,Working,Higher education,Separated,Co-op apartment,-13021,353482,1,1,1,1,Security staff,9
+8000016,M,Y,Y,0,2241310.9321175823,State servant,Secondary / secondary special,Civil marriage,Co-op apartment,-8129,79991,1,1,0,1,Laborers,16
+8000017,M,N,Y,12,248677.5582504067,Working,Secondary / secondary special,Married,Municipal apartment,-24621,356286,1,1,0,0,Cooking staff,2
+8000018,F,N,Y,8,4560636.248276744,State servant,Secondary / secondary special,Single / not married,Rented apartment,-20508,313328,1,0,0,1,Private service staff,11
+8000019,M,N,N,19,5259101.722227413,Student,Academic degree,Married,With parents,-13896,224482,1,0,0,0,Realty agents,5
+8000020,M,Y,N,6,3455680.107486194,Commercial associate,Lower secondary,Widow,Municipal apartment,-23977,353410,1,0,1,0,Sales staff,8
+8000021,F,N,Y,10,606896.960382943,Working,Higher education,Widow,Office apartment,-20097,262020,1,1,1,0,Low-skill Laborers,16
+8000022,M,Y,Y,4,5119118.92026972,Commercial associate,Lower secondary,Widow,Rented apartment,-13363,348883,1,1,1,0,Laborers,10
+8000023,F,Y,Y,19,5077255.014931402,Pensioner,Secondary / secondary special,Single / not married,House / apartment,-12806,214652,1,1,0,1,Managers,3
+8000024,F,Y,N,15,6276216.59080058,Working,Higher education,Civil marriage,Co-op apartment,-14916,304832,1,1,1,0,Drivers,13
+8000025,F,Y,N,7,4344467.873953176,State servant,Higher education,Widow,Co-op apartment,-8364,148537,1,0,0,0,Secretaries,16
+8000026,F,Y,N,9,3885544.801512832,Working,Incomplete higher,Widow,Municipal apartment,-16396,319371,1,1,1,1,Realty agents,4
+8000027,F,Y,N,8,4879789.403855731,Working,Incomplete higher,Civil marriage,Office apartment,-11278,61772,1,0,1,0,Drivers,5
+8000028,M,Y,N,3,4432966.248521353,Working,Academic degree,Widow,Co-op apartment,-16240,193555,1,1,1,1,HR staff,16
+8000029,F,Y,N,19,4859374.660058129,Commercial associate,Academic degree,Separated,Office apartment,-14468,104800,1,1,0,0,Low-skill Laborers,13
+8000030,F,N,N,15,2110367.6122322334,Student,Secondary / secondary special,Civil marriage,Municipal apartment,-15925,211968,1,1,0,0,Core staff,15
+8000031,M,Y,Y,0,3785421.082736717,Student,Higher education,Separated,Co-op apartment,-25115,358130,1,0,1,0,Secretaries,5
+8000032,M,N,Y,18,5481191.18887701,Working,Incomplete higher,Widow,With parents,-22162,159598,1,0,0,1,HR staff,5
+8000033,F,Y,N,7,502186.4321501627,Pensioner,Academic degree,Single / not married,House / apartment,-18985,214873,1,1,1,0,HR staff,6
+8000034,F,N,N,18,412845.23781359347,State servant,Lower secondary,Separated,Rented apartment,-22562,115261,1,1,1,0,Realty agents,14
+8000035,F,Y,N,2,6585460.255469492,Working,Incomplete higher,Widow,Municipal apartment,-24002,235236,1,1,1,0,Security staff,20
+8000036,F,Y,N,10,2644963.946418098,Commercial associate,Secondary / secondary special,Widow,Office apartment,-14660,360501,1,1,0,1,Waiters/barmen staff,2
+8000037,M,N,Y,1,2569340.081137848,Pensioner,Secondary / secondary special,Separated,Rented apartment,-7874,315470,1,1,1,1,None,19
+8000038,M,N,Y,3,1704259.2043592827,Working,Academic degree,Civil marriage,House / apartment,-25073,152390,1,0,1,0,Security staff,15
+8000039,M,N,Y,13,3105869.6484527295,Commercial associate,Secondary / secondary special,Single / not married,Co-op apartment,-10514,-13906,1,0,0,1,Managers,6
+8000040,M,Y,N,18,4552602.221667953,Commercial associate,Higher education,Civil marriage,Co-op apartment,-13391,91367,1,1,1,1,Managers,6
+8000041,M,N,Y,6,3901554.295962289,Working,Lower secondary,Separated,Rented apartment,-24853,277307,1,1,0,1,Cleaning staff,5
+8000042,F,Y,N,15,1502472.7975929338,State servant,Lower secondary,Civil marriage,Rented apartment,-14325,102749,1,0,0,1,Core staff,17
+8000043,F,Y,N,19,6067063.771999115,Student,Academic degree,Separated,With parents,-16677,284515,1,0,1,1,Managers,4
+8000044,F,Y,N,15,2269680.296961499,Commercial associate,Lower secondary,Separated,House / apartment,-10029,274467,1,1,1,1,Accountants,11
+8000045,M,Y,N,11,3650444.6360199684,Commercial associate,Incomplete higher,Civil marriage,Office apartment,-14226,309050,1,0,1,0,Realty agents,1
+8000046,F,Y,N,14,277441.29737797065,State servant,Higher education,Civil marriage,With parents,-15862,282024,1,0,0,1,HR staff,16
+8000047,F,Y,N,12,6690618.99068635,Student,Secondary / secondary special,Separated,Co-op apartment,-18349,251739,1,0,0,0,Medicine staff,5
+8000048,M,Y,N,15,2654886.092081941,Student,Academic degree,Civil marriage,With parents,-24286,36714,1,0,0,0,Secretaries,11
+8000049,F,Y,Y,3,4564083.0025298465,Commercial associate,Lower secondary,Civil marriage,Office apartment,-15028,10178,1,0,1,0,Accountants,18
+8000050,M,Y,N,18,5420149.000162062,Pensioner,Higher education,Separated,Municipal apartment,-15120,41014,1,1,1,1,Waiters/barmen staff,10
+8000051,F,Y,Y,0,5379778.619275877,Student,Incomplete higher,Widow,Office apartment,-8247,63867,1,0,0,0,Cooking staff,15
+8000052,F,Y,N,18,5352699.360803431,Pensioner,Higher education,Married,Office apartment,-18657,208595,1,1,0,1,Security staff,4
+8000053,F,Y,Y,5,4883379.800116001,Working,Academic degree,Separated,Municipal apartment,-19596,-11088,1,1,0,1,Medicine staff,6
+8000054,M,N,Y,5,3604504.4466966605,Working,Academic degree,Married,Office apartment,-15952,18406,1,1,1,1,Security staff,1
+8000055,M,N,N,19,2874360.3675638125,State servant,Lower secondary,Separated,Office apartment,-20569,331025,1,0,0,1,Private service staff,12
+8000056,M,Y,N,9,4745244.244338716,State servant,Academic degree,Single / not married,House / apartment,-11493,169143,1,0,1,0,Cleaning staff,5
+8000057,M,Y,N,15,4416588.432036638,State servant,Lower secondary,Widow,Rented apartment,-16333,299728,1,1,0,0,Security staff,1
+8000058,F,N,Y,4,2256395.618951694,State servant,Higher education,Separated,Co-op apartment,-24073,11896,1,0,1,0,Medicine staff,5
+8000059,M,Y,N,3,1063258.3380627246,Student,Higher education,Single / not married,Municipal apartment,-21865,-13326,1,1,0,0,Managers,19
+8000060,F,Y,N,14,592880.0071509029,Commercial associate,Lower secondary,Widow,With parents,-14474,125125,1,0,1,1,Security staff,16
+8000061,F,N,N,9,446357.03690412047,Pensioner,Higher education,Widow,House / apartment,-24492,276674,1,1,1,1,Secretaries,6
+8000062,M,Y,N,18,3220368.374367708,Working,Secondary / secondary special,Civil marriage,Municipal apartment,-13014,-17449,1,1,1,1,Low-skill Laborers,12
+8000063,F,N,N,12,1700349.463059591,Student,Academic degree,Married,Co-op apartment,-21855,108253,1,1,1,1,Cleaning staff,8
+8000064,F,Y,N,7,5742567.690492176,State servant,Academic degree,Separated,Co-op apartment,-15938,12884,1,0,1,0,High skill tech staff,3
+8000065,F,N,N,2,5858155.737279684,Commercial associate,Incomplete higher,Widow,Co-op apartment,-10968,2706,1,1,0,1,High skill tech staff,3
+8000066,M,Y,Y,6,4776139.724436507,Commercial associate,Higher education,Separated,Office apartment,-14856,44632,1,0,1,0,IT staff,8
+8000067,F,N,N,3,1085020.2577390948,Working,Secondary / secondary special,Separated,With parents,-9453,33511,1,1,1,0,IT staff,12
+8000068,M,Y,Y,8,4177154.523760953,State servant,Higher education,Single / not married,Co-op apartment,-16384,326708,1,0,0,0,Security staff,1
+8000069,M,N,N,9,1975245.6966805155,Pensioner,Incomplete higher,Separated,Co-op apartment,-16562,210788,1,0,1,1,Low-skill Laborers,9
+8000070,F,Y,N,18,2214670.6944215293,Commercial associate,Higher education,Widow,House / apartment,-11587,106711,1,0,1,1,Sales staff,13
+8000071,F,N,Y,12,379608.5716915606,Student,Incomplete higher,Civil marriage,Rented apartment,-13177,257101,1,1,1,1,Sales staff,9
+8000072,M,N,Y,13,5186157.956624486,Commercial associate,Academic degree,Widow,Co-op apartment,-16076,363050,1,1,0,0,None,11
+8000073,F,N,Y,15,1809372.1578851603,State servant,Higher education,Widow,Office apartment,-23947,247173,1,0,1,1,None,1
+8000074,M,Y,Y,4,2171828.8205985907,Commercial associate,Higher education,Single / not married,House / apartment,-24685,349482,1,0,1,1,Core staff,8
+8000075,F,N,Y,17,4172694.0301205786,State servant,Higher education,Civil marriage,Co-op apartment,-21980,-15757,1,1,1,0,Waiters/barmen staff,6
+8000076,M,Y,N,5,2492543.8448171085,State servant,Incomplete higher,Civil marriage,With parents,-14917,79704,1,1,1,0,Accountants,1
+8000077,F,Y,Y,3,529734.0247607594,State servant,Academic degree,Widow,With parents,-12604,316225,1,0,0,1,IT staff,18
+8000078,M,Y,Y,5,5383694.43938917,Student,Incomplete higher,Civil marriage,Municipal apartment,-11878,322668,1,0,1,0,Waiters/barmen staff,5
+8000079,F,Y,N,0,3492697.3087576893,Student,Secondary / secondary special,Single / not married,Municipal apartment,-14031,300826,1,0,0,1,Cooking staff,19
+8000080,M,Y,Y,14,4350865.999495915,State servant,Higher education,Single / not married,Office apartment,-7880,42287,1,0,1,0,None,3
+8000081,F,Y,N,17,639728.454038439,State servant,Higher education,Married,House / apartment,-14899,155324,1,1,1,0,Medicine staff,19
+8000082,M,N,Y,16,3678270.42011528,Commercial associate,Incomplete higher,Single / not married,Rented apartment,-23735,193879,1,0,1,0,Cooking staff,4
+8000083,F,N,Y,7,385669.95494984783,Working,Academic degree,Civil marriage,Rented apartment,-16901,253563,1,0,0,1,Drivers,11
+8000084,M,N,Y,14,3345174.4224037835,Student,Higher education,Widow,Rented apartment,-23960,322791,1,0,1,0,Laborers,14
+8000085,M,N,N,18,1601383.2663945649,Student,Secondary / secondary special,Separated,Municipal apartment,-21845,185092,1,0,0,1,Private service staff,6
+8000086,F,N,N,14,4217842.367507876,State servant,Secondary / secondary special,Civil marriage,Co-op apartment,-9490,134348,1,0,1,0,Core staff,15
+8000087,M,Y,N,5,6166313.327745705,Pensioner,Academic degree,Married,House / apartment,-10449,90849,1,0,0,1,IT staff,17
+8000088,F,N,N,9,1275925.2132191746,Pensioner,Secondary / secondary special,Civil marriage,Municipal apartment,-22366,323675,1,0,0,1,Waiters/barmen staff,14
+8000089,F,Y,N,1,5136195.773473765,Working,Incomplete higher,Single / not married,With parents,-24577,319401,1,0,1,1,Private service staff,19
+8000090,M,Y,N,10,5020555.7783178445,Pensioner,Academic degree,Married,Rented apartment,-10020,55671,1,1,0,0,Core staff,5
+8000091,F,Y,N,0,4708780.857197246,Pensioner,Academic degree,Married,Rented apartment,-8934,7935,1,0,0,0,Secretaries,18
+8000092,F,Y,N,19,1930856.4445702222,Working,Incomplete higher,Civil marriage,Office apartment,-24159,197885,1,0,1,1,Managers,4
+8000093,F,Y,Y,1,3675539.215102831,Commercial associate,Lower secondary,Widow,Municipal apartment,-18624,64657,1,1,0,0,Low-skill Laborers,14
+8000094,F,N,Y,16,1283182.595325693,Student,Academic degree,Civil marriage,Office apartment,-9370,339929,1,0,1,1,Private service staff,20
+8000095,F,N,Y,3,2586818.0544820745,Student,Higher education,Civil marriage,Office apartment,-17615,247145,1,1,0,1,High skill tech staff,14
+8000096,M,N,Y,7,1107925.441424183,Pensioner,Higher education,Widow,House / apartment,-21012,83543,1,0,0,0,Secretaries,3
+8000097,M,Y,Y,3,2514038.9465694046,Pensioner,Academic degree,Widow,House / apartment,-20137,57138,1,1,1,0,Secretaries,6
+8000098,F,N,N,14,5139923.832283297,State servant,Secondary / secondary special,Single / not married,With parents,-15278,216573,1,0,0,1,Laborers,4
+8000099,M,N,Y,9,3983908.6705430937,Pensioner,Secondary / secondary special,Civil marriage,With parents,-17913,44776,1,0,0,0,Core staff,5
+8000100,M,N,Y,7,232077.77818645095,Student,Higher education,Married,Rented apartment,-20257,320205,1,1,1,0,Private service staff,3
+8000101,F,Y,N,3,5643044.353778384,State servant,Lower secondary,Single / not married,Office apartment,-17041,193596,1,1,0,1,Drivers,15
+8000102,M,Y,Y,0,2884904.9464243124,Working,Lower secondary,Widow,Office apartment,-17450,189019,1,1,1,0,Medicine staff,13
+8000103,M,N,N,18,842573.6910294614,Commercial associate,Secondary / secondary special,Separated,Municipal apartment,-15129,88199,1,0,1,1,Sales staff,14
+8000104,F,Y,N,3,6600210.767513092,Student,Academic degree,Widow,Municipal apartment,-18155,2559,1,0,1,1,Sales staff,1
+8000105,M,Y,N,11,3964115.4345327863,Commercial associate,Higher education,Separated,Rented apartment,-15025,147050,1,0,1,1,IT staff,16
+8000106,F,N,N,5,433611.9379055217,Pensioner,Secondary / secondary special,Married,Co-op apartment,-20607,356362,1,0,1,0,Core staff,10
+8000107,F,N,N,15,3575336.798648571,Student,Lower secondary,Civil marriage,Co-op apartment,-11497,223227,1,1,1,1,None,14
+8000108,F,N,N,16,4147718.3094588993,Commercial associate,Higher education,Widow,Co-op apartment,-11139,313289,1,0,1,1,Cooking staff,20
+8000109,F,Y,N,1,1463320.5683335979,Commercial associate,Academic degree,Separated,House / apartment,-17616,185981,1,0,0,1,Realty agents,4
+8000110,F,N,Y,10,5910198.439620417,State servant,Incomplete higher,Married,Rented apartment,-7770,361055,1,0,1,0,Realty agents,19
+8000111,M,N,Y,9,2977140.054645323,Student,Academic degree,Civil marriage,With parents,-24748,305456,1,1,1,0,Low-skill Laborers,1
+8000112,M,N,N,5,4806227.311942373,Commercial associate,Higher education,Widow,House / apartment,-9094,72344,1,1,1,0,High skill tech staff,6
+8000113,M,Y,N,11,4430545.23999653,Commercial associate,Lower secondary,Civil marriage,Co-op apartment,-22036,151384,1,0,1,0,Cleaning staff,11
+8000114,M,Y,N,6,5891999.262871494,Student,Lower secondary,Single / not married,Co-op apartment,-14405,113102,1,1,1,1,IT staff,20
+8000115,M,Y,Y,4,6495138.348744268,Pensioner,Lower secondary,Single / not married,Rented apartment,-11605,98327,1,1,1,1,Cooking staff,4
+8000116,F,N,Y,2,2576774.6607121993,Working,Academic degree,Widow,Municipal apartment,-9504,22792,1,1,0,1,Laborers,13
+8000117,F,Y,Y,2,1217304.582912293,Pensioner,Academic degree,Single / not married,House / apartment,-16418,61453,1,0,1,0,Realty agents,17
+8000118,F,N,N,12,2033760.0647222432,Pensioner,Higher education,Civil marriage,Rented apartment,-12904,221505,1,1,0,1,HR staff,18
+8000119,F,Y,N,16,3160364.768780947,Pensioner,Lower secondary,Civil marriage,House / apartment,-15219,341021,1,0,0,1,Cooking staff,2
+8000120,M,N,N,13,4446142.179392184,State servant,Higher education,Single / not married,Office apartment,-8430,-710,1,1,0,0,None,12
+8000121,F,Y,Y,14,5220418.101213723,Commercial associate,Lower secondary,Separated,Rented apartment,-15022,44172,1,0,0,0,Medicine staff,10
+8000122,F,Y,N,17,1578255.7148166245,Student,Academic degree,Single / not married,Municipal apartment,-16106,142839,1,0,0,1,Laborers,15
+8000123,F,N,Y,8,3010240.8583865324,Student,Secondary / secondary special,Single / not married,With parents,-24200,30181,1,1,0,1,Laborers,17
+8000124,M,Y,Y,13,5188901.529024138,Student,Secondary / secondary special,Single / not married,Municipal apartment,-20847,321345,1,0,1,0,Secretaries,5
+8000125,M,N,N,11,862374.3648078897,Pensioner,Academic degree,Widow,Co-op apartment,-24104,162748,1,1,0,0,Cleaning staff,11
+8000126,F,N,N,12,267846.820411476,Working,Incomplete higher,Civil marriage,House / apartment,-24950,111877,1,1,1,0,Medicine staff,3
+8000127,M,N,N,9,612863.6140593283,State servant,Lower secondary,Widow,Rented apartment,-10265,188804,1,0,1,1,Secretaries,15
+8000128,F,N,Y,14,5602922.257055398,Working,Lower secondary,Single / not married,House / apartment,-18164,77001,1,0,1,1,Laborers,6
+8000129,M,Y,N,13,614848.9350732508,State servant,Secondary / secondary special,Single / not married,With parents,-22416,112024,1,0,0,1,Low-skill Laborers,13
+8000130,F,Y,N,9,2166898.158204498,Student,Higher education,Separated,Municipal apartment,-19597,273201,1,1,1,1,Sales staff,1
+8000131,M,Y,Y,18,4340940.591061936,Student,Higher education,Civil marriage,Rented apartment,-7824,102268,1,1,1,1,Secretaries,6
+8000132,M,N,Y,13,6270069.271216103,Student,Academic degree,Widow,Rented apartment,-14929,116642,1,1,0,0,Core staff,9
+8000133,M,Y,Y,9,3763044.461637909,Pensioner,Lower secondary,Married,Municipal apartment,-19927,309359,1,1,0,1,Realty agents,18
+8000134,F,N,N,4,1709088.5899481757,Working,Secondary / secondary special,Separated,Co-op apartment,-22764,74060,1,1,1,0,Sales staff,13
+8000135,F,N,N,2,2501998.672761862,Commercial associate,Lower secondary,Separated,Co-op apartment,-8567,42894,1,0,1,1,Realty agents,7
+8000136,M,Y,N,3,6444230.868497127,Student,Secondary / secondary special,Married,Municipal apartment,-19066,160317,1,1,1,1,Cleaning staff,7
+8000137,F,N,Y,15,5799627.398712827,State servant,Lower secondary,Single / not married,Office apartment,-15085,138479,1,1,1,1,HR staff,11
+8000138,M,Y,N,7,6293126.169102648,Pensioner,Incomplete higher,Civil marriage,House / apartment,-13407,287880,1,1,1,1,Low-skill Laborers,19
+8000139,M,Y,Y,17,5191824.834575067,Pensioner,Lower secondary,Single / not married,With parents,-9406,18026,1,1,0,0,Low-skill Laborers,20
+8000140,F,N,Y,13,5704328.890183538,Pensioner,Higher education,Separated,Office apartment,-18240,196665,1,1,0,1,HR staff,6
+8000141,F,Y,N,8,784149.5424451786,Commercial associate,Incomplete higher,Married,Rented apartment,-19350,265404,1,0,1,1,Accountants,16
+8000142,M,N,Y,18,450214.90239457425,Working,Academic degree,Separated,House / apartment,-8172,38592,1,0,0,1,Drivers,1
+8000143,F,N,N,13,1010847.5501545843,Student,Academic degree,Married,Municipal apartment,-12415,187056,1,1,0,0,Managers,12
+8000144,F,Y,Y,3,4215765.084746979,Pensioner,Higher education,Civil marriage,House / apartment,-24342,243980,1,1,0,0,Low-skill Laborers,9
+8000145,F,N,Y,14,5041474.723049474,Student,Lower secondary,Single / not married,With parents,-10781,332739,1,0,0,1,Managers,19
+8000146,M,N,N,10,1409258.292337979,Working,Secondary / secondary special,Widow,With parents,-16152,47274,1,1,0,0,Core staff,2
+8000147,F,N,N,7,5704364.742682743,Student,Secondary / secondary special,Civil marriage,Office apartment,-22919,350000,1,1,1,1,Cooking staff,10
+8000148,M,N,N,16,357597.2100035874,State servant,Secondary / secondary special,Civil marriage,Office apartment,-14133,171610,1,0,1,0,Cleaning staff,8
+8000149,M,Y,N,10,1567200.6154094636,Commercial associate,Secondary / secondary special,Separated,Municipal apartment,-23428,317319,1,0,1,1,Drivers,11
+8000150,M,N,N,6,6131482.549893249,Pensioner,Incomplete higher,Separated,House / apartment,-17757,227557,1,1,1,0,Accountants,16
+8000151,M,N,N,10,2118281.199096408,State servant,Lower secondary,Widow,Rented apartment,-7693,185857,1,0,0,1,IT staff,11
+8000152,F,N,N,2,2106965.1603471674,State servant,Secondary / secondary special,Married,Office apartment,-11259,323795,1,0,1,1,Security staff,2
+8000153,M,Y,Y,12,4827287.379243148,Commercial associate,Higher education,Single / not married,Co-op apartment,-14007,77513,1,0,1,1,Secretaries,17
+8000154,M,Y,N,3,5833367.697322517,Commercial associate,Academic degree,Civil marriage,Rented apartment,-18041,91523,1,1,1,0,Medicine staff,7
+8000155,M,Y,Y,0,5055949.528447307,Student,Higher education,Widow,Rented apartment,-24760,-16176,1,1,1,0,Laborers,18
+8000156,F,Y,N,1,4734433.064366191,Working,Higher education,Married,With parents,-22103,154566,1,0,1,1,Realty agents,6
+8000157,F,Y,Y,0,2680895.6091119666,Student,Higher education,Separated,Co-op apartment,-16798,169710,1,1,1,0,Cooking staff,16
+8000158,M,N,N,17,1004494.5487194656,State servant,Lower secondary,Single / not married,With parents,-23304,144046,1,0,1,0,Realty agents,5
+8000159,F,Y,N,14,6051985.736448478,Pensioner,Higher education,Separated,Rented apartment,-16347,167613,1,1,0,1,Private service staff,19
+8000160,F,N,Y,15,4616478.297139049,Student,Secondary / secondary special,Separated,With parents,-20724,316713,1,0,0,0,Cleaning staff,15
+8000161,M,N,Y,11,5925026.61643716,Working,Lower secondary,Widow,Rented apartment,-23370,89708,1,0,1,0,Cooking staff,16
+8000162,F,N,Y,17,3468653.255288399,State servant,Lower secondary,Widow,Rented apartment,-16154,132206,1,1,0,1,Drivers,10
+8000163,M,N,N,8,988574.0998557761,Student,Secondary / secondary special,Single / not married,Office apartment,-19084,145593,1,1,0,0,High skill tech staff,6
+8000164,F,Y,Y,15,3408076.618113171,State servant,Lower secondary,Civil marriage,Municipal apartment,-12782,207939,1,1,1,1,Realty agents,10
+8000165,M,N,Y,2,656698.0685419163,Student,Incomplete higher,Separated,Co-op apartment,-21288,74874,1,0,1,0,Drivers,14
+8000166,M,Y,Y,9,769508.3317934657,Pensioner,Higher education,Married,Office apartment,-17001,68608,1,1,1,1,Private service staff,9
+8000167,F,Y,Y,4,3324357.3070446914,Commercial associate,Academic degree,Married,With parents,-15841,210592,1,1,0,0,Laborers,20
+8000168,F,N,N,10,421691.2947028041,Pensioner,Academic degree,Married,House / apartment,-14410,242614,1,1,1,1,Accountants,1
+8000169,M,Y,Y,8,2646868.951508674,State servant,Higher education,Married,Municipal apartment,-13972,219024,1,1,1,0,HR staff,7
+8000170,F,N,N,15,3659019.95995995,Working,Academic degree,Single / not married,Office apartment,-16122,281578,1,1,1,1,IT staff,18
+8000171,F,N,Y,3,356437.9024097187,Working,Lower secondary,Separated,With parents,-18226,221132,1,1,0,0,IT staff,18
+8000172,M,N,Y,15,4483958.36074002,Working,Lower secondary,Single / not married,Municipal apartment,-9896,301741,1,0,1,1,Secretaries,3
+8000173,F,N,N,19,117906.52571247355,State servant,Academic degree,Civil marriage,Rented apartment,-22153,1558,1,0,0,0,Accountants,15
+8000174,F,Y,N,2,2245043.756371421,Pensioner,Lower secondary,Civil marriage,House / apartment,-23535,113333,1,1,0,1,Managers,1
+8000175,F,N,N,16,6169413.147025616,Commercial associate,Secondary / secondary special,Single / not married,Co-op apartment,-11871,287266,1,0,0,0,High skill tech staff,11
+8000176,F,Y,N,3,4119909.928389688,Student,Lower secondary,Married,Rented apartment,-11420,325339,1,1,1,1,Realty agents,11
+8000177,F,N,N,0,3414686.2984280842,Commercial associate,Higher education,Civil marriage,House / apartment,-11325,322294,1,0,0,1,Security staff,16
+8000178,M,N,Y,13,1306490.150788272,Commercial associate,Incomplete higher,Single / not married,Office apartment,-8386,133350,1,0,0,0,None,19
+8000179,F,N,N,12,653433.6280412653,Student,Incomplete higher,Separated,House / apartment,-21408,348177,1,1,1,0,None,4
+8000180,F,N,Y,9,4256860.617641777,Student,Incomplete higher,Married,With parents,-20416,341718,1,0,1,0,Secretaries,5
+8000181,M,Y,Y,5,5788645.909937388,Pensioner,Secondary / secondary special,Separated,Municipal apartment,-24968,305600,1,0,1,1,Drivers,4
+8000182,F,N,Y,1,3970950.24653888,State servant,Incomplete higher,Civil marriage,Office apartment,-10396,783,1,0,0,0,Realty agents,12
+8000183,F,N,N,7,589229.0473564082,Working,Academic degree,Separated,With parents,-8638,337057,1,1,1,1,Medicine staff,10
+8000184,M,N,Y,10,5221085.7298986735,Student,Academic degree,Separated,With parents,-11027,271861,1,0,0,1,Secretaries,1
+8000185,F,N,Y,14,3379162.621528187,Working,Incomplete higher,Married,Co-op apartment,-25079,264536,1,1,0,1,Laborers,15
+8000186,M,N,N,14,1032215.2330954713,State servant,Lower secondary,Married,Office apartment,-20762,231839,1,1,0,0,Cooking staff,15
+8000187,M,Y,Y,2,4814733.356303963,Pensioner,Secondary / secondary special,Civil marriage,Office apartment,-14314,360317,1,1,0,1,Realty agents,9
+8000188,M,N,Y,13,1592007.143870269,State servant,Incomplete higher,Widow,Rented apartment,-23285,357466,1,1,1,0,HR staff,10
+8000189,M,Y,Y,3,976432.328858466,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-18717,-13681,1,0,0,0,IT staff,1
+8000190,F,N,N,10,945454.8924649636,Working,Academic degree,Separated,Rented apartment,-9700,261315,1,1,1,0,None,11
+8000191,M,N,N,3,4134846.165044904,State servant,Incomplete higher,Separated,Co-op apartment,-12466,297064,1,0,1,0,None,15
+8000192,M,Y,Y,0,3231251.5350364293,State servant,Academic degree,Married,Municipal apartment,-21821,39684,1,1,0,0,Medicine staff,11
+8000193,M,Y,N,16,2947684.15477609,Commercial associate,Academic degree,Widow,Co-op apartment,-11969,328302,1,1,0,0,HR staff,1
+8000194,F,Y,N,0,1311101.854453932,Commercial associate,Lower secondary,Single / not married,House / apartment,-23635,223335,1,0,1,0,Accountants,1
+8000195,F,Y,N,6,2722704.6652990105,State servant,Secondary / secondary special,Separated,Co-op apartment,-16329,121581,1,0,1,1,Managers,9
+8000196,M,N,Y,4,2407774.188105727,State servant,Secondary / secondary special,Separated,Rented apartment,-9838,246663,1,0,0,1,None,8
+8000197,M,N,Y,13,6124933.374629061,Student,Incomplete higher,Widow,Office apartment,-21241,74790,1,0,1,1,Accountants,19
+8000198,M,N,Y,8,1973950.4780399164,Student,Lower secondary,Civil marriage,House / apartment,-11567,151358,1,1,1,1,Cleaning staff,15
+8000199,F,N,N,13,4522022.713540484,Working,Lower secondary,Single / not married,Rented apartment,-17839,172660,1,1,0,0,Core staff,15
+8000200,F,Y,N,2,1907842.67498694,Pensioner,Academic degree,Married,Municipal apartment,-10856,37869,1,1,0,0,IT staff,7
+8000201,M,N,Y,7,5469165.266933677,Student,Lower secondary,Married,House / apartment,-24544,231806,1,0,1,1,Sales staff,8
+8000202,M,N,N,16,4688675.538989461,Working,Lower secondary,Civil marriage,Rented apartment,-16979,230739,1,1,0,0,Sales staff,7
+8000203,F,N,N,0,2392568.4719453226,Student,Higher education,Widow,House / apartment,-15995,146653,1,1,1,0,Realty agents,17
+8000204,M,N,N,11,1854891.3423814105,Working,Secondary / secondary special,Civil marriage,With parents,-12069,36367,1,0,0,1,Cooking staff,12
+8000205,F,N,Y,2,3699589.5796127487,Student,Lower secondary,Single / not married,Co-op apartment,-12117,91244,1,1,1,0,High skill tech staff,11
+8000206,F,N,N,9,5692613.942278244,Commercial associate,Higher education,Separated,Co-op apartment,-14502,175763,1,1,0,1,Cooking staff,20
+8000207,M,N,N,15,3710567.5013590874,Working,Incomplete higher,Civil marriage,Municipal apartment,-8484,59878,1,1,0,0,Accountants,12
+8000208,F,N,Y,19,234826.4522754974,Working,Academic degree,Married,House / apartment,-23239,226355,1,0,0,1,High skill tech staff,20
+8000209,F,N,Y,18,5018768.270949293,Working,Incomplete higher,Married,House / apartment,-9981,208736,1,0,1,0,Accountants,11
+8000210,M,N,N,3,2818520.514040099,Commercial associate,Lower secondary,Separated,Office apartment,-20981,142749,1,1,1,1,None,9
+8000211,F,Y,N,15,2291569.3752922905,Working,Incomplete higher,Married,With parents,-16610,349849,1,0,1,1,None,14
+8000212,M,N,N,15,5420954.338231567,Pensioner,Secondary / secondary special,Widow,Co-op apartment,-13467,31719,1,1,1,1,HR staff,10
+8000213,M,Y,N,6,3259720.0466594603,Working,Higher education,Widow,With parents,-23895,345875,1,1,1,1,Low-skill Laborers,19
+8000214,F,N,N,0,6670641.088830326,Commercial associate,Secondary / secondary special,Civil marriage,Rented apartment,-20074,253706,1,0,0,1,Waiters/barmen staff,8
+8000215,M,N,N,13,796576.6467089001,Commercial associate,Higher education,Civil marriage,With parents,-20728,44764,1,1,1,1,None,5
+8000216,F,Y,N,17,6492888.143514842,Commercial associate,Incomplete higher,Civil marriage,With parents,-20543,207198,1,0,0,1,Accountants,6
+8000217,F,Y,Y,8,5040695.969202313,Commercial associate,Secondary / secondary special,Married,Municipal apartment,-8191,235884,1,1,1,0,Security staff,15
+8000218,F,Y,N,19,1859179.3251414527,Student,Lower secondary,Separated,With parents,-8140,356632,1,1,0,0,Medicine staff,14
+8000219,F,N,N,12,3791052.7249010177,Working,Incomplete higher,Widow,Municipal apartment,-21710,156947,1,1,1,0,IT staff,10
+8000220,M,Y,Y,6,3932089.56184913,Student,Secondary / secondary special,Single / not married,Co-op apartment,-13173,248302,1,1,1,1,Realty agents,7
+8000221,M,N,N,6,1556725.680372068,Commercial associate,Lower secondary,Single / not married,With parents,-10590,266866,1,1,0,1,Laborers,8
+8000222,M,N,N,8,4471954.42536536,Pensioner,Academic degree,Separated,Municipal apartment,-11605,32238,1,0,0,0,Laborers,1
+8000223,F,Y,N,11,4495872.462434237,Working,Higher education,Civil marriage,House / apartment,-21829,188461,1,1,1,1,HR staff,4
+8000224,F,Y,Y,12,4520212.0349837635,State servant,Higher education,Separated,Municipal apartment,-22721,293277,1,0,0,0,Cooking staff,16
+8000225,M,N,N,2,2564545.4994501867,Pensioner,Higher education,Civil marriage,With parents,-14492,51157,1,0,1,0,IT staff,20
+8000226,F,Y,N,9,4280253.606395808,Pensioner,Secondary / secondary special,Civil marriage,Office apartment,-8715,290393,1,0,0,1,Waiters/barmen staff,20
+8000227,F,N,N,2,2899191.167432949,State servant,Academic degree,Separated,Co-op apartment,-18915,773,1,0,0,0,Medicine staff,3
+8000228,M,Y,N,4,6617960.553632307,State servant,Secondary / secondary special,Married,Municipal apartment,-18245,213463,1,0,0,0,Low-skill Laborers,6
+8000229,F,N,Y,1,1115581.1105371641,Student,Higher education,Married,Office apartment,-24266,157220,1,0,0,1,High skill tech staff,8
+8000230,F,N,Y,10,1182163.7477179787,Commercial associate,Academic degree,Separated,Rented apartment,-19966,-6655,1,1,1,0,Private service staff,4
+8000231,M,N,Y,12,4286982.680786341,Commercial associate,Incomplete higher,Civil marriage,With parents,-24753,10208,1,0,1,0,Medicine staff,16
+8000232,F,N,N,5,2324105.324370449,Pensioner,Secondary / secondary special,Separated,House / apartment,-17221,141815,1,1,0,0,HR staff,14
+8000233,F,N,Y,9,5625411.377562269,Working,Incomplete higher,Widow,House / apartment,-22029,50569,1,0,0,1,Medicine staff,20
+8000234,F,Y,N,6,203351.20531105285,State servant,Academic degree,Married,Municipal apartment,-20837,59850,1,0,1,0,Realty agents,1
+8000235,M,Y,Y,8,699485.4432962685,Working,Secondary / secondary special,Separated,With parents,-11060,360605,1,0,1,0,Core staff,14
+8000236,F,Y,Y,11,6530272.077282988,Pensioner,Incomplete higher,Widow,With parents,-8080,252304,1,0,1,1,Low-skill Laborers,3
+8000237,M,N,Y,10,3442095.7587593496,Pensioner,Higher education,Separated,Municipal apartment,-24100,196203,1,0,0,0,Private service staff,7
+8000238,M,N,Y,14,1979673.4673369036,Pensioner,Lower secondary,Civil marriage,With parents,-20747,34144,1,1,0,1,Cleaning staff,4
+8000239,F,Y,N,10,5481109.015631295,Pensioner,Academic degree,Widow,Co-op apartment,-16662,160215,1,1,1,0,Waiters/barmen staff,14
+8000240,M,Y,Y,17,6315610.706145035,Commercial associate,Academic degree,Civil marriage,Office apartment,-20626,258107,1,1,0,1,None,16
+8000241,F,Y,N,18,5917193.115287433,Commercial associate,Lower secondary,Widow,House / apartment,-11129,342431,1,1,0,0,None,15
+8000242,F,Y,N,12,6179406.35739332,State servant,Lower secondary,Married,Office apartment,-10196,42695,1,1,0,1,Drivers,18
+8000243,M,N,N,6,4816613.6024608575,Pensioner,Secondary / secondary special,Married,Co-op apartment,-17883,360348,1,0,1,0,IT staff,11
+8000244,M,Y,N,12,1175606.1795922508,Working,Academic degree,Civil marriage,Municipal apartment,-20427,232724,1,1,1,0,Drivers,9
+8000245,M,N,N,6,3513938.9507093714,Pensioner,Secondary / secondary special,Civil marriage,Municipal apartment,-21676,15287,1,0,0,0,Sales staff,12
+8000246,F,Y,Y,17,2780573.498159394,Working,Lower secondary,Separated,Co-op apartment,-16533,315534,1,0,1,1,IT staff,11
+8000247,M,N,Y,6,665277.7777172778,Commercial associate,Secondary / secondary special,Married,House / apartment,-18350,302337,1,1,0,1,Drivers,8
+8000248,M,Y,N,18,1309300.7920828837,Pensioner,Secondary / secondary special,Separated,Rented apartment,-8580,29568,1,0,1,1,Accountants,20
+8000249,M,Y,N,19,2011532.5183078223,Commercial associate,Higher education,Civil marriage,With parents,-25147,348368,1,1,1,0,HR staff,13
+8000250,M,Y,N,3,4663108.748215446,Pensioner,Incomplete higher,Widow,With parents,-20056,52118,1,0,1,1,Laborers,8
+8000251,F,N,N,3,1031524.2286422085,Student,Higher education,Married,Co-op apartment,-7648,159583,1,1,0,1,Cleaning staff,3
+8000252,F,Y,N,15,1510431.0584601776,Working,Secondary / secondary special,Single / not married,Co-op apartment,-17386,169755,1,0,1,0,Realty agents,1
+8000253,F,Y,N,14,2436436.1488870503,State servant,Higher education,Widow,House / apartment,-22394,131343,1,1,1,1,Private service staff,9
+8000254,F,N,N,16,341907.0864013286,State servant,Secondary / secondary special,Separated,Municipal apartment,-17233,221424,1,0,1,1,Laborers,16
+8000255,M,Y,N,14,4215562.365559204,Pensioner,Higher education,Widow,Rented apartment,-18253,146113,1,1,1,0,Managers,5
+8000256,F,N,N,8,395531.3453047157,State servant,Incomplete higher,Widow,Office apartment,-21045,-8677,1,0,0,1,Medicine staff,6
+8000257,M,N,N,7,3662310.8480364615,Working,Incomplete higher,Widow,With parents,-20197,28894,1,1,1,1,Cleaning staff,14
+8000258,M,N,Y,15,5376467.846313713,Student,Higher education,Married,Municipal apartment,-19707,194900,1,0,1,1,High skill tech staff,5
+8000259,M,Y,N,16,818888.7982508878,Pensioner,Academic degree,Separated,Municipal apartment,-19560,201366,1,0,1,0,Waiters/barmen staff,15
+8000260,M,Y,N,2,4870866.08399952,State servant,Academic degree,Single / not married,Municipal apartment,-20137,68431,1,0,1,1,Security staff,15
+8000261,M,Y,N,16,5911094.960456666,State servant,Higher education,Separated,Municipal apartment,-11161,40062,1,1,1,0,High skill tech staff,16
+8000262,F,N,N,6,5260270.883049453,Pensioner,Lower secondary,Married,Co-op apartment,-16545,301810,1,0,0,0,Accountants,10
+8000263,M,N,N,8,558956.591941293,Working,Higher education,Single / not married,House / apartment,-20115,4257,1,0,1,1,Secretaries,9
+8000264,M,N,N,2,5882208.969231786,State servant,Secondary / secondary special,Married,Office apartment,-13040,299301,1,1,1,1,Medicine staff,2
+8000265,M,N,N,5,5634409.588350359,Pensioner,Higher education,Married,With parents,-23879,305438,1,0,1,0,Realty agents,12
+8000266,F,N,Y,18,3681071.7174093276,Commercial associate,Secondary / secondary special,Married,House / apartment,-24969,288223,1,0,0,0,Managers,10
+8000267,M,Y,Y,2,3613598.027237604,State servant,Secondary / secondary special,Separated,With parents,-8811,-1525,1,0,1,1,Secretaries,5
+8000268,F,Y,N,0,5373598.595369539,State servant,Secondary / secondary special,Single / not married,Rented apartment,-14033,337219,1,1,1,1,IT staff,13
+8000269,F,Y,N,4,5999083.849844607,Student,Academic degree,Civil marriage,Rented apartment,-18501,157576,1,1,0,0,High skill tech staff,11
+8000270,F,Y,N,16,5738033.619402976,Working,Secondary / secondary special,Civil marriage,Municipal apartment,-9246,246550,1,1,0,0,Cleaning staff,14
+8000271,F,N,N,0,4358761.762531036,Commercial associate,Academic degree,Separated,Rented apartment,-22941,120691,1,0,1,1,Drivers,1
+8000272,M,N,N,1,220622.57286806896,Commercial associate,Academic degree,Separated,Office apartment,-8414,223406,1,1,1,0,Drivers,19
+8000273,M,Y,Y,13,6038172.086765915,Commercial associate,Lower secondary,Single / not married,Rented apartment,-13863,98971,1,1,1,1,Medicine staff,20
+8000274,M,N,N,9,6672779.652036003,Student,Incomplete higher,Separated,Office apartment,-8617,144050,1,1,0,0,Drivers,4
+8000275,M,N,Y,18,3429102.0989152594,Pensioner,Secondary / secondary special,Married,Co-op apartment,-12780,154674,1,0,1,0,Medicine staff,6
+8000276,F,N,Y,9,3396920.1874947473,State servant,Incomplete higher,Single / not married,Office apartment,-13210,8954,1,0,0,1,Sales staff,9
+8000277,F,N,N,18,4020784.744045622,Commercial associate,Incomplete higher,Single / not married,House / apartment,-13522,98114,1,1,0,0,Managers,12
+8000278,M,N,Y,17,4978709.873556421,Commercial associate,Lower secondary,Single / not married,Rented apartment,-11115,47546,1,0,0,0,Core staff,19
+8000279,F,Y,N,2,5031620.383352354,State servant,Academic degree,Single / not married,Rented apartment,-9782,290765,1,0,0,1,None,20
+8000280,M,N,N,2,5041222.828091712,Commercial associate,Incomplete higher,Separated,Office apartment,-14596,298496,1,0,0,0,Security staff,10
+8000281,M,Y,N,3,1042829.1944944658,Commercial associate,Lower secondary,Single / not married,House / apartment,-22870,328970,1,0,1,1,Private service staff,8
+8000282,M,N,N,4,2406342.909257309,Student,Academic degree,Widow,House / apartment,-8303,3264,1,1,1,1,HR staff,20
+8000283,F,N,N,7,216997.66124497418,Commercial associate,Lower secondary,Single / not married,Co-op apartment,-8326,258432,1,0,1,0,HR staff,3
+8000284,M,Y,Y,15,5056924.705806122,Working,Lower secondary,Civil marriage,House / apartment,-10681,316473,1,0,1,0,IT staff,5
+8000285,M,N,N,14,4099310.259545536,Student,Academic degree,Civil marriage,Municipal apartment,-13882,40725,1,0,1,0,HR staff,9
+8000286,M,Y,N,13,2459924.030308191,State servant,Incomplete higher,Separated,Municipal apartment,-17171,262398,1,1,0,0,IT staff,9
+8000287,M,N,Y,6,1299120.661127685,Pensioner,Academic degree,Civil marriage,With parents,-22492,96334,1,0,1,1,Accountants,19
+8000288,M,Y,N,4,1462067.4092633964,Student,Academic degree,Civil marriage,Rented apartment,-21819,314694,1,1,0,1,Laborers,14
+8000289,F,Y,N,1,2024022.736672995,Commercial associate,Academic degree,Civil marriage,Rented apartment,-8373,205536,1,1,0,1,High skill tech staff,13
+8000290,F,N,Y,2,6097476.111288424,State servant,Higher education,Single / not married,Co-op apartment,-13458,5704,1,1,0,0,Security staff,5
+8000291,M,Y,N,9,2931711.4874224537,State servant,Higher education,Married,With parents,-11991,96197,1,1,1,1,Low-skill Laborers,15
+8000292,F,N,Y,3,1710738.785813659,Working,Secondary / secondary special,Widow,With parents,-22126,106205,1,0,0,0,Security staff,8
+8000293,M,N,Y,6,6542693.516404701,Commercial associate,Incomplete higher,Single / not married,With parents,-22981,74704,1,1,1,1,Managers,3
+8000294,M,Y,Y,11,1723888.741580095,State servant,Incomplete higher,Separated,Co-op apartment,-11980,328256,1,0,1,0,Laborers,16
+8000295,F,N,N,3,4702771.22555229,Pensioner,Secondary / secondary special,Married,Rented apartment,-16408,244856,1,1,0,1,Cleaning staff,12
+8000296,M,Y,Y,8,677125.5853012603,Pensioner,Higher education,Civil marriage,Office apartment,-9365,177417,1,1,1,0,Secretaries,2
+8000297,F,N,Y,13,28217.775208436677,Pensioner,Lower secondary,Married,With parents,-16261,29732,1,1,1,0,Core staff,12
+8000298,F,N,N,13,274565.03051037947,Working,Secondary / secondary special,Civil marriage,Office apartment,-8809,224017,1,0,0,0,Private service staff,14
+8000299,M,Y,Y,8,4199552.22761824,State servant,Incomplete higher,Married,House / apartment,-24843,338983,1,0,1,1,HR staff,11
+8000300,M,Y,N,12,1552529.9319359502,Student,Higher education,Widow,Co-op apartment,-25173,249139,1,0,1,0,None,5
+8000301,F,Y,Y,7,2103530.0277497424,Pensioner,Lower secondary,Single / not married,Office apartment,-16053,110196,1,1,1,0,HR staff,6
+8000302,M,N,Y,3,5274543.805858193,Commercial associate,Incomplete higher,Separated,With parents,-16624,271319,1,0,0,1,Low-skill Laborers,12
+8000303,M,N,Y,9,1388277.6024762332,Commercial associate,Lower secondary,Civil marriage,Rented apartment,-8748,297229,1,1,0,0,Waiters/barmen staff,5
+8000304,M,N,N,7,5043293.434842768,Commercial associate,Secondary / secondary special,Married,With parents,-14835,222163,1,0,0,1,Low-skill Laborers,17
+8000305,M,N,Y,3,4493997.125685121,Pensioner,Higher education,Single / not married,Office apartment,-20031,158999,1,0,1,1,Cleaning staff,5
+8000306,F,N,Y,18,6525936.4380980395,Pensioner,Secondary / secondary special,Married,Co-op apartment,-7541,110252,1,1,0,0,None,9
+8000307,M,N,Y,15,120950.6522254504,Working,Incomplete higher,Civil marriage,House / apartment,-14254,303722,1,0,0,1,High skill tech staff,5
+8000308,F,N,Y,12,2199545.1697269846,State servant,Secondary / secondary special,Separated,House / apartment,-16384,105330,1,1,1,0,Realty agents,2
+8000309,F,Y,Y,4,5871628.938780782,State servant,Secondary / secondary special,Widow,Municipal apartment,-20315,115634,1,0,0,0,None,1
+8000310,F,Y,N,19,6726531.88808483,Commercial associate,Lower secondary,Single / not married,Rented apartment,-17389,64368,1,1,1,1,Managers,17
+8000311,F,N,Y,12,5192724.28059081,State servant,Academic degree,Married,Rented apartment,-14427,285974,1,0,0,1,Realty agents,2
+8000312,M,Y,N,4,1284286.7960666087,Working,Secondary / secondary special,Separated,Municipal apartment,-9534,73433,1,1,1,1,Core staff,20
+8000313,F,Y,Y,4,4409162.3864571955,Student,Incomplete higher,Separated,Office apartment,-18267,-1743,1,0,1,0,Security staff,20
+8000314,M,N,N,4,6029263.6759360265,State servant,Academic degree,Civil marriage,Municipal apartment,-7587,218913,1,0,1,1,Medicine staff,2
+8000315,M,Y,N,5,4019406.5109998975,Working,Academic degree,Separated,Municipal apartment,-17699,205494,1,1,1,0,Private service staff,6
+8000316,M,N,N,18,2635313.4540830264,Pensioner,Academic degree,Separated,Municipal apartment,-10086,280839,1,1,0,0,Managers,19
+8000317,M,N,N,18,5945225.902075972,Working,Academic degree,Civil marriage,Co-op apartment,-17238,310233,1,0,1,0,Low-skill Laborers,18
+8000318,F,Y,N,17,4600412.348589047,Working,Incomplete higher,Widow,Office apartment,-16966,214604,1,1,0,1,Low-skill Laborers,5
+8000319,F,Y,N,10,1364358.812198225,Pensioner,Academic degree,Civil marriage,Municipal apartment,-7636,52814,1,0,0,0,Security staff,4
+8000320,M,N,Y,9,1430815.1027643261,Working,Academic degree,Widow,Municipal apartment,-24931,211870,1,0,0,1,Security staff,17
+8000321,F,Y,N,14,5263494.8339534905,Working,Secondary / secondary special,Single / not married,Municipal apartment,-22247,236213,1,0,0,1,Accountants,10
+8000322,F,N,N,4,31256.94429386009,Pensioner,Higher education,Civil marriage,Co-op apartment,-14554,240208,1,0,0,1,Cooking staff,19
+8000323,F,Y,N,14,2655886.9890416656,Commercial associate,Lower secondary,Civil marriage,Co-op apartment,-15270,204055,1,0,1,0,Medicine staff,6
+8000324,M,N,Y,17,5488591.456385158,Student,Higher education,Separated,House / apartment,-16362,78726,1,1,0,1,Realty agents,14
+8000325,F,N,Y,13,1776809.5152696383,Student,Incomplete higher,Single / not married,Municipal apartment,-20402,55615,1,1,0,0,None,9
+8000326,F,Y,Y,10,3470953.0139808957,Commercial associate,Higher education,Separated,House / apartment,-15365,262442,1,1,0,0,Low-skill Laborers,11
+8000327,F,N,N,2,312747.2592384672,Pensioner,Secondary / secondary special,Separated,Office apartment,-19220,206721,1,1,0,0,Low-skill Laborers,4
+8000328,M,N,N,5,4503500.071275668,Working,Secondary / secondary special,Widow,Co-op apartment,-19349,86326,1,0,1,1,Security staff,5
+8000329,F,Y,Y,8,289118.8465940712,State servant,Lower secondary,Widow,With parents,-9531,309658,1,1,0,1,Realty agents,13
+8000330,M,Y,N,3,4370294.528172049,Pensioner,Lower secondary,Widow,House / apartment,-11408,116814,1,1,1,1,Laborers,11
+8000331,M,N,Y,5,4957514.509462394,Student,Academic degree,Single / not married,With parents,-17557,6095,1,0,1,0,Private service staff,4
+8000332,M,Y,N,16,5122820.84843329,Commercial associate,Academic degree,Widow,Co-op apartment,-18807,277916,1,0,0,0,Security staff,1
+8000333,F,N,Y,19,3426363.1634150445,Working,Higher education,Widow,Co-op apartment,-24838,342048,1,0,0,1,IT staff,14
+8000334,F,Y,N,9,184626.93843189016,Student,Secondary / secondary special,Separated,Co-op apartment,-22537,256357,1,1,1,1,HR staff,8
+8000335,M,N,N,16,3140278.4007115206,State servant,Academic degree,Civil marriage,Co-op apartment,-23188,206652,1,1,0,1,Waiters/barmen staff,4
+8000336,M,N,Y,15,4970390.488899198,State servant,Academic degree,Married,Municipal apartment,-12696,181805,1,0,1,0,High skill tech staff,9
+8000337,M,Y,Y,11,581810.5834198624,Pensioner,Lower secondary,Single / not married,Municipal apartment,-15158,331202,1,1,0,1,Laborers,3
+8000338,F,Y,N,14,5050513.086395635,Pensioner,Secondary / secondary special,Civil marriage,Office apartment,-16435,71699,1,1,0,0,Drivers,5
+8000339,M,Y,Y,7,3093100.785392625,Student,Lower secondary,Married,With parents,-20489,280964,1,0,1,0,Security staff,7
+8000340,M,Y,N,12,99494.74537555032,Student,Secondary / secondary special,Married,With parents,-19268,78958,1,0,0,1,Low-skill Laborers,1
+8000341,M,N,Y,16,4301972.88601805,Pensioner,Lower secondary,Separated,With parents,-9507,279008,1,1,0,0,IT staff,16
+8000342,F,Y,Y,4,915651.4838121122,Pensioner,Higher education,Single / not married,Municipal apartment,-20250,14122,1,1,0,0,IT staff,16
+8000343,M,Y,N,13,1380175.7840177445,Working,Incomplete higher,Separated,Office apartment,-13344,236623,1,1,1,1,Security staff,3
+8000344,M,N,N,11,3121131.136594085,State servant,Secondary / secondary special,Separated,Co-op apartment,-19869,218777,1,0,0,1,Drivers,1
+8000345,M,N,N,7,4344171.814836323,Commercial associate,Lower secondary,Civil marriage,Rented apartment,-8894,313846,1,0,0,1,Managers,18
+8000346,M,Y,N,17,2876944.8018864915,Commercial associate,Academic degree,Widow,Co-op apartment,-15748,71748,1,1,1,1,Private service staff,16
+8000347,M,Y,N,7,3408134.1181830713,Commercial associate,Higher education,Single / not married,Office apartment,-10952,56626,1,0,1,1,High skill tech staff,20
+8000348,M,N,Y,4,4848357.339233378,Pensioner,Lower secondary,Separated,Municipal apartment,-16689,26477,1,1,1,1,Accountants,20
+8000349,M,Y,N,2,704881.5300358933,Working,Secondary / secondary special,Widow,Municipal apartment,-13451,-10138,1,0,1,0,Private service staff,10
+8000350,F,Y,Y,19,2890551.01551326,Student,Academic degree,Widow,Rented apartment,-10504,226543,1,1,1,1,Accountants,14
+8000351,M,N,N,12,568723.5875408738,Pensioner,Higher education,Widow,Municipal apartment,-17365,129174,1,0,0,0,Sales staff,11
+8000352,F,Y,N,5,1291167.0386123415,Working,Lower secondary,Widow,Office apartment,-22622,175328,1,1,0,1,Drivers,13
+8000353,M,Y,Y,10,124383.47469114489,Commercial associate,Higher education,Married,With parents,-12651,210461,1,1,1,1,Cooking staff,17
+8000354,F,Y,Y,11,1338542.6388333344,Working,Secondary / secondary special,Civil marriage,With parents,-23763,192968,1,0,1,1,Realty agents,2
+8000355,F,N,N,14,1335297.771470786,Pensioner,Lower secondary,Married,Municipal apartment,-20772,303695,1,1,1,0,Low-skill Laborers,17
+8000356,M,N,N,0,2965743.876875847,Working,Academic degree,Civil marriage,Office apartment,-22357,186277,1,1,1,1,Secretaries,12
+8000357,M,Y,Y,6,4347977.245785044,Student,Higher education,Widow,With parents,-22175,60862,1,0,0,1,High skill tech staff,18
+8000358,F,N,N,11,6268544.669939031,Commercial associate,Incomplete higher,Civil marriage,With parents,-15224,322794,1,0,1,1,None,13
+8000359,M,N,Y,3,956272.1512485422,Student,Secondary / secondary special,Separated,House / apartment,-13954,171852,1,1,1,0,Waiters/barmen staff,20
+8000360,F,N,N,19,591029.5491262211,State servant,Academic degree,Married,House / apartment,-25015,289576,1,1,0,0,Accountants,7
+8000361,F,N,Y,2,3451929.93089539,Working,Higher education,Married,Rented apartment,-15970,-7910,1,1,0,1,Secretaries,15
+8000362,M,Y,N,6,1466400.2405331957,Commercial associate,Incomplete higher,Single / not married,Co-op apartment,-22310,10953,1,0,1,0,Drivers,14
+8000363,M,N,Y,4,5543542.251416676,Working,Secondary / secondary special,Civil marriage,Co-op apartment,-13981,14678,1,0,1,1,HR staff,1
+8000364,M,Y,N,11,1914402.2641556484,Pensioner,Lower secondary,Widow,Co-op apartment,-21520,349451,1,0,1,1,HR staff,3
+8000365,F,N,Y,15,151038.31340447877,Working,Lower secondary,Single / not married,Municipal apartment,-12135,278329,1,0,1,1,Drivers,9
+8000366,M,Y,N,7,5258181.221381311,Student,Lower secondary,Separated,Office apartment,-10840,305230,1,1,1,1,Cooking staff,14
+8000367,F,Y,N,5,216294.9898611321,State servant,Secondary / secondary special,Married,House / apartment,-8008,266499,1,0,0,1,HR staff,9
+8000368,M,N,Y,9,317589.7543421823,Commercial associate,Academic degree,Widow,With parents,-17217,252884,1,1,1,0,Core staff,13
+8000369,M,N,Y,18,6460395.685392473,Pensioner,Higher education,Civil marriage,Office apartment,-22721,152048,1,0,0,1,Core staff,2
+8000370,F,Y,Y,10,5194574.179386858,Pensioner,Incomplete higher,Civil marriage,Municipal apartment,-13014,141662,1,0,1,1,IT staff,2
+8000371,F,Y,Y,15,4071966.7351471446,Pensioner,Lower secondary,Civil marriage,Office apartment,-14996,23408,1,0,1,0,Drivers,5
+8000372,F,N,Y,19,137427.96704236866,Working,Secondary / secondary special,Widow,Rented apartment,-14235,30226,1,1,1,1,Cleaning staff,6
+8000373,M,Y,N,2,4283451.736508697,Commercial associate,Academic degree,Widow,Co-op apartment,-15012,331427,1,0,1,0,HR staff,5
+8000374,F,N,N,19,1034472.0381471087,Commercial associate,Lower secondary,Married,Municipal apartment,-24253,264818,1,1,1,1,Medicine staff,7
+8000375,F,N,N,4,1402019.6784940134,Commercial associate,Lower secondary,Separated,Co-op apartment,-15091,217148,1,0,1,0,Cleaning staff,14
+8000376,F,Y,N,18,3835708.4112693695,State servant,Incomplete higher,Single / not married,Office apartment,-24591,197905,1,0,1,0,Accountants,13
+8000377,F,Y,N,0,3430360.129054431,Student,Lower secondary,Separated,Office apartment,-19387,273887,1,0,1,0,Sales staff,14
+8000378,F,Y,N,2,953377.9987250676,State servant,Incomplete higher,Widow,Municipal apartment,-7834,313283,1,0,1,1,Cleaning staff,9
+8000379,M,N,Y,13,4452748.735462601,Student,Secondary / secondary special,Married,Co-op apartment,-9259,300469,1,0,0,1,Low-skill Laborers,14
+8000380,F,N,Y,11,1529095.8318528065,State servant,Incomplete higher,Single / not married,Municipal apartment,-12429,149694,1,0,1,0,High skill tech staff,18
+8000381,M,Y,Y,5,1051944.2019602568,Working,Lower secondary,Single / not married,House / apartment,-8648,-10072,1,0,0,1,HR staff,12
+8000382,M,Y,Y,14,3024852.6718941345,Commercial associate,Lower secondary,Single / not married,Rented apartment,-14480,304993,1,1,0,1,Laborers,16
+8000383,F,Y,N,4,3958065.823997442,Working,Higher education,Married,Rented apartment,-15255,46761,1,0,0,1,Low-skill Laborers,9
+8000384,M,N,Y,4,58730.88151059911,Student,Lower secondary,Single / not married,Rented apartment,-17428,337571,1,0,1,1,Laborers,14
+8000385,F,N,N,1,2192142.7390617253,State servant,Secondary / secondary special,Widow,House / apartment,-24720,301953,1,1,1,1,Cooking staff,5
+8000386,F,N,Y,15,2097472.9052730324,Student,Higher education,Widow,Rented apartment,-13892,203945,1,1,0,1,Realty agents,4
+8000387,F,Y,Y,9,1184501.9458521751,State servant,Higher education,Civil marriage,With parents,-9407,360012,1,1,1,0,Medicine staff,16
+8000388,M,Y,Y,7,3751401.765507167,Student,Secondary / secondary special,Single / not married,Municipal apartment,-15905,192202,1,0,1,1,Security staff,2
+8000389,F,N,N,14,6610108.493967746,Working,Lower secondary,Single / not married,With parents,-21881,37005,1,0,0,0,Secretaries,4
+8000390,F,Y,Y,15,446813.52019919275,Pensioner,Higher education,Single / not married,Office apartment,-22427,63213,1,1,1,1,Cooking staff,10
+8000391,F,Y,N,4,4969551.27618856,Working,Higher education,Married,House / apartment,-16986,305754,1,1,1,0,Cleaning staff,15
+8000392,M,Y,N,9,4462070.9963666005,Commercial associate,Academic degree,Widow,Office apartment,-19352,135252,1,1,0,1,Cleaning staff,10
+8000393,M,N,N,7,2938908.1815639012,Working,Academic degree,Separated,Office apartment,-17094,265148,1,1,0,1,Low-skill Laborers,16
+8000394,M,Y,Y,11,2261458.4478159943,State servant,Incomplete higher,Single / not married,With parents,-8590,268470,1,0,1,1,Laborers,5
+8000395,F,Y,Y,7,3468591.2483185017,Pensioner,Lower secondary,Separated,Rented apartment,-21356,172178,1,0,0,1,Cooking staff,2
+8000396,M,N,N,14,4711072.020833942,Student,Academic degree,Civil marriage,Co-op apartment,-16712,191682,1,0,0,1,High skill tech staff,8
+8000397,M,N,Y,11,3949979.644201396,Pensioner,Incomplete higher,Civil marriage,House / apartment,-15036,219814,1,0,0,0,Private service staff,3
+8000398,M,N,N,2,6067507.8788106665,Student,Higher education,Widow,With parents,-11064,42284,1,1,0,1,Cooking staff,12
+8000399,M,N,N,11,2038127.5370813904,Commercial associate,Higher education,Separated,With parents,-10479,50887,1,0,0,0,Managers,17
+8000400,F,Y,Y,10,2158984.8859635093,Working,Higher education,Civil marriage,Co-op apartment,-12134,294786,1,1,1,1,Accountants,12
+8000401,M,Y,N,4,5929481.072786053,Commercial associate,Secondary / secondary special,Married,Co-op apartment,-10337,59479,1,1,1,1,Accountants,1
+8000402,M,N,Y,2,6331600.062126827,Commercial associate,Higher education,Separated,Co-op apartment,-13201,358701,1,0,1,1,Waiters/barmen staff,8
+8000403,M,Y,Y,13,5651796.405645116,Student,Incomplete higher,Separated,Municipal apartment,-12449,62868,1,1,1,0,Cooking staff,19
+8000404,F,N,N,15,370486.65183289064,Student,Incomplete higher,Single / not married,Municipal apartment,-20940,253766,1,0,0,1,Realty agents,10
+8000405,M,Y,Y,11,2012913.5595827426,Commercial associate,Higher education,Single / not married,Co-op apartment,-11708,321262,1,0,1,0,Cooking staff,16
+8000406,F,N,Y,9,6504275.8466736525,Pensioner,Higher education,Married,Co-op apartment,-23257,170142,1,0,1,0,Waiters/barmen staff,1
+8000407,M,N,Y,0,6572967.934813285,Pensioner,Incomplete higher,Civil marriage,House / apartment,-14598,326521,1,1,0,1,Low-skill Laborers,9
+8000408,M,N,N,14,2877138.899724276,Commercial associate,Academic degree,Married,Municipal apartment,-13392,187903,1,0,0,0,Waiters/barmen staff,13
+8000409,F,N,Y,18,6604968.157093384,Student,Lower secondary,Single / not married,Co-op apartment,-17793,301012,1,0,1,0,Drivers,4
+8000410,F,N,Y,4,1953972.2743402945,Working,Lower secondary,Single / not married,Co-op apartment,-17578,286827,1,0,1,1,HR staff,5
+8000411,M,N,N,15,1261847.4264554216,Working,Incomplete higher,Single / not married,Municipal apartment,-7878,124067,1,0,1,0,Managers,5
+8000412,F,Y,N,13,6738217.510110963,Commercial associate,Lower secondary,Married,Office apartment,-20250,319090,1,0,1,1,Medicine staff,15
+8000413,F,Y,Y,15,4819372.13513523,Commercial associate,Secondary / secondary special,Separated,Co-op apartment,-22205,24967,1,1,0,1,Realty agents,12
+8000414,F,Y,N,17,3410924.4254123913,Student,Higher education,Separated,Rented apartment,-21628,225502,1,0,1,1,Cleaning staff,4
+8000415,M,Y,Y,5,6682929.289837663,Pensioner,Lower secondary,Civil marriage,Co-op apartment,-8402,248769,1,1,1,1,Drivers,14
+8000416,M,Y,Y,18,4430067.199167584,State servant,Higher education,Single / not married,With parents,-12021,56997,1,1,0,1,Cooking staff,5
+8000417,M,N,Y,6,1600685.9852791415,State servant,Lower secondary,Married,Office apartment,-19743,42781,1,0,0,0,Accountants,13
+8000418,M,N,N,2,2813184.1334671173,Student,Secondary / secondary special,Separated,Municipal apartment,-21135,102223,1,0,1,1,Cleaning staff,10
+8000419,M,Y,Y,3,2621386.503486828,Commercial associate,Lower secondary,Civil marriage,House / apartment,-14858,238137,1,0,0,0,Managers,17
+8000420,F,N,N,7,3449394.286698249,Pensioner,Lower secondary,Widow,With parents,-15912,107714,1,0,1,0,HR staff,1
+8000421,F,Y,N,16,4239213.320983019,State servant,Incomplete higher,Widow,House / apartment,-23341,68190,1,0,1,0,Waiters/barmen staff,11
+8000422,F,Y,N,7,2211730.021144912,Working,Secondary / secondary special,Separated,Municipal apartment,-24315,169294,1,1,0,1,None,15
+8000423,F,Y,N,18,6412258.339397768,Student,Secondary / secondary special,Widow,Co-op apartment,-19183,359575,1,0,1,0,None,11
+8000424,F,Y,Y,13,4544624.111654211,Student,Lower secondary,Single / not married,Co-op apartment,-16018,94597,1,0,1,1,Drivers,1
+8000425,F,N,Y,13,403158.05565353285,Commercial associate,Academic degree,Widow,Office apartment,-20070,216523,1,0,0,1,Drivers,4
+8000426,F,N,N,18,6636297.277262375,Student,Academic degree,Civil marriage,House / apartment,-16059,202678,1,0,1,0,Security staff,14
+8000427,M,Y,N,19,5571324.226802835,Commercial associate,Academic degree,Separated,House / apartment,-21997,49725,1,1,0,0,Security staff,11
+8000428,M,Y,Y,2,5611399.528866464,Pensioner,Secondary / secondary special,Widow,Co-op apartment,-22056,299772,1,0,0,0,Private service staff,18
+8000429,M,N,N,2,5133687.835485679,Student,Lower secondary,Separated,Co-op apartment,-13939,261168,1,1,0,1,Medicine staff,15
+8000430,M,Y,Y,1,4529146.991411845,Pensioner,Academic degree,Married,Office apartment,-11408,239634,1,1,0,1,Medicine staff,13
+8000431,F,N,Y,1,1519487.5067177704,Student,Incomplete higher,Civil marriage,With parents,-17991,362037,1,1,1,1,Drivers,12
+8000432,M,N,Y,2,5933887.081539117,Pensioner,Higher education,Married,House / apartment,-14201,244744,1,1,1,0,Secretaries,3
+8000433,M,N,Y,6,1721565.009260257,Commercial associate,Academic degree,Civil marriage,Rented apartment,-15699,86502,1,0,1,1,Accountants,6
+8000434,F,N,Y,17,4790780.306904442,Student,Lower secondary,Married,Municipal apartment,-24138,82469,1,1,1,1,Managers,7
+8000435,F,Y,N,12,5888026.778888075,Student,Incomplete higher,Married,Office apartment,-21319,362875,1,1,1,1,Managers,20
+8000436,M,Y,N,5,88133.66552476338,Student,Lower secondary,Single / not married,Municipal apartment,-7999,360195,1,0,0,0,Laborers,1
+8000437,M,N,N,8,4465852.448049581,Student,Lower secondary,Civil marriage,With parents,-9956,109924,1,0,0,0,HR staff,10
+8000438,F,Y,Y,3,2396354.0190676367,Commercial associate,Lower secondary,Widow,House / apartment,-7777,144118,1,1,1,1,Secretaries,6
+8000439,M,Y,N,1,2862556.9795898492,Working,Secondary / secondary special,Civil marriage,Office apartment,-16921,113266,1,0,0,1,Cleaning staff,1
+8000440,M,N,Y,2,1372046.8274374497,State servant,Lower secondary,Separated,Co-op apartment,-18574,311564,1,1,0,0,Realty agents,8
+8000441,M,Y,N,4,3507641.860911411,Working,Academic degree,Single / not married,Municipal apartment,-20525,62630,1,0,1,1,IT staff,11
+8000442,M,Y,N,4,2453041.2917668717,Student,Academic degree,Civil marriage,Rented apartment,-23011,-2330,1,0,0,1,None,1
+8000443,F,N,N,8,3448640.075467924,Pensioner,Academic degree,Married,Office apartment,-8358,179322,1,0,1,0,Low-skill Laborers,1
+8000444,M,N,Y,9,4158807.080820337,Working,Academic degree,Married,Office apartment,-18173,273592,1,0,0,1,Security staff,9
+8000445,M,N,Y,4,1567887.6342081565,State servant,Lower secondary,Civil marriage,Co-op apartment,-23473,363990,1,0,0,1,Core staff,14
+8000446,F,N,Y,15,6328782.837997522,Student,Lower secondary,Single / not married,Co-op apartment,-9409,87062,1,0,0,0,Medicine staff,1
+8000447,F,Y,Y,14,5870357.394367441,State servant,Academic degree,Single / not married,With parents,-21857,93395,1,0,0,1,Cooking staff,19
+8000448,F,N,Y,13,1588793.2068675563,Student,Higher education,Separated,Rented apartment,-17444,113004,1,1,1,1,Cooking staff,5
+8000449,F,Y,N,17,4674308.464182625,Pensioner,Secondary / secondary special,Single / not married,Office apartment,-18247,225765,1,0,1,1,Realty agents,12
+8000450,M,N,N,18,870613.5385883964,Commercial associate,Incomplete higher,Civil marriage,Municipal apartment,-16564,278147,1,0,0,0,Core staff,14
+8000451,M,Y,N,5,863435.7662663509,Pensioner,Secondary / secondary special,Married,Office apartment,-19238,253761,1,1,1,0,Accountants,8
+8000452,F,Y,N,9,4514757.440364226,Working,Lower secondary,Single / not married,Municipal apartment,-21865,49057,1,1,1,1,Secretaries,2
