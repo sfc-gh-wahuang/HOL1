@@ -1,7 +1,11 @@
 USE ROLE HOL1;
 USE WAREHOUSE HOL1_WH;
 USE SCHEMA HOL1_DB.HOL1_SCHEMA;
-PUT file://data/application_record.csv @DATA_STAGE;
+
+-- Upload data files to stage
+-- If using Vscode, make sure you open the HOL1 folder when executing below 4 commands
+-- If using Snowsight you can manually upload the files to the stage
+PUT file://data/application_record.csv @DATA_STAGE;  
 PUT file://data/credit_record.csv @DATA_STAGE;
 PUT file://data/new_application_record.csv @DATA_STAGE;
 PUT file://data/new_credit_record.csv @DATA_STAGE;
@@ -39,6 +43,10 @@ CREATE TABLE IF NOT EXISTS HOL1_DB.HOL1_SCHEMA.NEW_APPLICATION_RECORD LIKE APPLI
 CREATE TABLE IF NOT EXISTS HOL1_DB.HOL1_SCHEMA.NEW_CREDIT_RECORD LIKE CREDIT_RECORD;
 COPY INTO HOL1_DB.HOL1_SCHEMA.NEW_APPLICATION_RECORD FROM @DATA_STAGE/new_application_record.csv.gz FILE_FORMAT = (TYPE = 'CSV' FIELD_OPTIONALLY_ENCLOSED_BY = '"' SKIP_HEADER = 1);
 COPY INTO HOL1_DB.HOL1_SCHEMA.NEW_CREDIT_RECORD FROM @DATA_STAGE/new_credit_record.csv.gz FILE_FORMAT = (TYPE = 'CSV' FIELD_OPTIONALLY_ENCLOSED_BY = '"' SKIP_HEADER = 1);
+-- After this step, you should have the following tables in HOL1_DB.HOL1_SCHEMA:
+-- APPLICATION_RECORD, CREDIT_RECORD, NEW_APPLICATION_RECORD, NEW_CREDIT_RECORD
+-- make sure to view them in snowsight that they are not empty
+
 
 -- create a table to store prediction history for Streamlit app
 CREATE OR REPLACE TABLE HOL1_DB.HOL1_SCHEMA.PREDICTION_RESULTS (
