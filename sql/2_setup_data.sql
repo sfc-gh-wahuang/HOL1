@@ -3,13 +3,14 @@ USE WAREHOUSE HOL1_WH;
 USE SCHEMA HOL1_DB.HOL1_SCHEMA;
 
 -- Upload data files to stage
--- If using Vscode, make sure you open the HOL1 folder when executing below 4 commands
+-- If using Vscode, make sure you open the HOL1 folder when executing below 5 commands
 -- If using Snowsight you can manually upload the files to the stage
 CREATE OR REPLACE STAGE DATA_STAGE FILE_FORMAT = (TYPE = 'CSV' FIELD_OPTIONALLY_ENCLOSED_BY = '"' SKIP_HEADER = 1);
-PUT file://data/application_record.csv @DATA_STAGE;  
+PUT file://data/application_record.csv @DATA_STAGE;
 PUT file://data/credit_record.csv @DATA_STAGE;
 PUT file://data/new_application_record.csv @DATA_STAGE;
 PUT file://data/new_credit_record.csv @DATA_STAGE;
+LS @DATA_STAGE;
 CREATE TABLE IF NOT EXISTS HOL1_DB.HOL1_SCHEMA.APPLICATION_RECORD (
     ID INTEGER,
     CODE_GENDER VARCHAR(10),
