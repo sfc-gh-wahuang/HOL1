@@ -25,12 +25,6 @@ conda activate snowflake_mlops
 pip install -r requirements.txt
 ```
 
-Copy over structure in `.env.example` into an `.env` file
-```bash
-cp .env.example .env
-```
-Fill in `.env` with your actual credentials.
-
 ## Execution Instructions
 
 1. **Environment Setup**  
@@ -41,6 +35,7 @@ Fill in `.env` with your actual credentials.
 
 2. **Run SQL Scripts**  
    - Run [sql/1_setup_account.sql](sql/1_setup_account.sql) and [sql/2_setup_data.sql](sql/2_setup_data.sql) to set up the database and load data. You can run these either via your IDE's Snowflake add-on or in Snowsight. Note that if using Snowsight, you will need to upload the 4 data files to the stage.
+   - At this stage, verify that there are 4 tables in `HOL1_DB.HOL1_SCHEMA`
 
 3. **Run ML Pipeline**  
    - Option 1: Run [src/3_build_ML_pipeline_v_vscode.ipynb](src/3_build_ML_pipeline_v_vscode.ipynb) directly in VSCode or through opening up Jupyter Notebook in a web browser.
